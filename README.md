@@ -1,7 +1,7 @@
 ** DIABETES PATIENTS ANALYSIS**
 
 
- Our project involved six steps: 
+ This project involved six steps: 
 
 
 
